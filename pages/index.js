@@ -1,3 +1,5 @@
-import { Home } from "./Home"
+function Home() {
+  return <h1>Página Inicial</h1>
+}
 
 export default Home
